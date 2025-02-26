@@ -1,0 +1,10 @@
+.description-title {
+    animation: fadeIn 1s ease-in-out;
+    color: black; /* Optional: Change text color */
+  }
+  
+  .description-text {
+    animation: slideIn 1s ease-in-out;
+    color: gray; /* Optional: Change text color */
+  }
+  
